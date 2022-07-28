@@ -1,0 +1,23 @@
+{
+  "name": "20-daftar-bo-slot-gacor-mudah-maxwin-terbaru",
+  "main": "./lib/20-daftar-bo-slot-gacor-mudah-maxwin-terbaru",
+  "version": "0.0.0",
+  "description": "Cantiktoto pusat perkumpulan 20 daftar bo situs slot gacor mudah maxwin terbaru 2022 di Indonesia dengan konsep terbaik paling baru",
+  "keywords": [
+    "slot gacor",
+    "slot gacor 4d",
+    "situs slot gacor",
+    "slot gacor hari ini",
+    "slot gacor mudah maxwin"
+  ],
+  "activationCommands": {
+    "atom-workspace": "20-daftar-bo-slot-gacor-mudah-maxwin-terbaru:toggle"
+  },
+  "repository": "https://github.com/biskuit-regal/20-daftar-bo-slot-gacor-mudah-maxwin-terbaru",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

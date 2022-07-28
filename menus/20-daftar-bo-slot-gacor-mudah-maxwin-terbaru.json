@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle 20-daftar-bo-slot-gacor-mudah-maxwin-terbaru",
+        "command": "20-daftar-bo-slot-gacor-mudah-maxwin-terbaru:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "20-daftar-bo-slot-gacor-mudah-maxwin-terbaru",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "20-daftar-bo-slot-gacor-mudah-maxwin-terbaru:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
